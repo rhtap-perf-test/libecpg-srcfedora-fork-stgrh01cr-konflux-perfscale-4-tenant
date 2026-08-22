@@ -1,9 +1,9 @@
 %global majorversion 16
 
 Summary: ECPG - Embedded SQL in C
-Name: libecpg
+Name: konflux-probe-libecpg
 Version: %majorversion.4
-Release: 7%{?dist}
+Release: 20260822224011%{?dist}
 
 License: PostgreSQL
 Url: http://www.postgresql.org/
